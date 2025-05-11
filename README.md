@@ -51,7 +51,8 @@ This page redirects you to a dedicated section where you can analyze and gain in
 📊 **General View:**
 
 
-![general view](https://github.com/user-attachments/assets/c0125581-08f9-4800-93a6-c47ec73f622b)
+![image](https://github.com/user-attachments/assets/2f286c61-fa09-4bad-8045-6b36ca928f84)
+
 
 Total revenue recorded: ₹989.25M
 
