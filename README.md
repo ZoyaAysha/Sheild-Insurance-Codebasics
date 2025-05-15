@@ -1,5 +1,5 @@
 # Sheild-Insurance-Codebasics
-Live Dashboard : https://app.powerbi.com/groups/me/reports/f5c4855e-6783-4ea1-becc-7d9e316b9cc5/e3883733202ab7e0d6a7?experience=power-bi
+Live Dashboard : https://app.powerbi.com/groups/me/reports/46fce955-4970-4be6-b74b-6933984e92cb?pbi_source=desktop
 
 ![image](https://github.com/user-attachments/assets/e76e5922-ede8-46f7-8b16-7c65cb8a22fd) **Project: Shield Insurance Dashboard**
 
